@@ -16,5 +16,21 @@ exports.seed = function(knex) {
       description: 'Design and Build API Endpoints',
       notes: 'This is where the magic happens!',
     },
+    {
+      project_id: 2,
+      description: 'Figure out the exact data that must be displayed with react',
+      notes:
+        'Using Postman I will get a better understanding of the data I am working with',
+    },
+    {
+      project_id: 2,
+      description: 'Decided Which Components to create',
+      notes: 'May require some trial and error',
+    },
+    {
+      project_id: 2,
+      description: 'Add more capabilities than just retrieving data and displaying it',
+      notes: 'This decision will largely be based on capability and amount of time',
+    },
   ]);
 };
