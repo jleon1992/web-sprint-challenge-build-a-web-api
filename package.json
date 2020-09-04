@@ -1,6 +1,9 @@
 {
     "name": "node-api-challenge",
     "version": "1.0.0",
+    "engines": {
+        "node": "12.18.1"
+    },
     "description": "Node API Challenge",
     "main": "index.js",
     "scripts": {
